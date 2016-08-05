@@ -20,10 +20,6 @@ body {
     margin-left: auto;
     margin-right: auto;
 }
-svg {
-  width:800px;
-  height:500px;
-}
 header {
   float:left;
 }
@@ -37,3 +33,8 @@ header {
   border-radius: 8px;
   float:right;
 }
+svg {
+  width:800px;
+  height:500px;
+}
+
