@@ -1,6 +1,4 @@
 var svg = d3.select('svg');
-var width = +svg.attr('width');
-var height = +svg.attr('height');
 var data = [];
 var highScore = 0;
 var currentScore = 0;
